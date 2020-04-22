@@ -11,5 +11,9 @@ Very simple water intake app
 
 * > test@test.com
 * > test1234
+ 
+### APK ###
+ 
+ >/builds/drink.apk
 
 
